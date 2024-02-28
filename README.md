@@ -1,4 +1,5 @@
-### Hi there 👋
+# Allen Tamrazian
+### CSULA Student and Coding Enthusiast
 
 <!--
 **AllenTamrazian/AllenTamrazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
