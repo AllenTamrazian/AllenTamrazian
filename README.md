@@ -1,8 +1,7 @@
 # Allen Tamrazian
 **`CSULA Student and Coding Enthusiast`**
 
-<!--
-**AllenTamrazian/AllenTamrazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student attending California State University, Los Angeles. I like to learn new languages, frameworks, and tools to help me create games, apps, and web applications. I am very passionate about what I do and make sure to have fun while doing it. Some coding projects are built from scratch and others are from tutorials. 
 
 Here are some ideas to get you started:
 
