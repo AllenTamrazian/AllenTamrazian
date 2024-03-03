@@ -28,4 +28,5 @@ I am a Computer Science student attending California State University, Los Angel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenTamrazian&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?AllenTamrazian)
+
+![](https://komarev.com/ghpvc/?username=AllenTamrazian&style=flat-square)
