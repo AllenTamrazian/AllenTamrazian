@@ -21,7 +21,7 @@ I am a Computer Science student attending California State University, Los Angel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AllenTamrazian)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allen-tamrazian-345406225//)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/allen-tamrazian-345406225//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenTamrazian&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
