@@ -19,7 +19,7 @@ I am a Computer Science student attending California State University, Los Angel
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   </p>
 
-
+<h3 align="left">Connect with Me:</h3>
 [<img src='https://cdn.iconscout.com/icon/free/png-512/free-github-40-432516.png?f=webp&w=512' alt='github' height='40'>](https://github.com/AllenTamrazian)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/allen-tamrazian-345406225//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenTamrazian&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
